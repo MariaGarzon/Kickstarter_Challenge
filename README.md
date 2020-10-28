@@ -16,13 +16,13 @@ The analysis for this project was divided into two main deliverables: theatre ou
 
 A pivot table was created to filter the number of successful, failed, and canceled theatre campaigns. The information summarized on the table was then used to visualize the relationship between threate outcomes and launch month in a line chart.
 
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png).
+![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png).
 
 ### Analysis of Outcomes Based on Goals
 
 A summary report was generated to organize play outcomes based on campaign goals. The projects were grouped based on their campaign goal amount using the following ranges: Less Than 1000, 1000 to 4999, 5000 to 9999, 10000 to 14999, 15000 to 19999, 20000 to 24999, 25000 to 29999, 30000 to 34999 35000 to 39999, 40000 to 44999, 45000 to 49999 and greater than or equal to 50000 and their outcome in terms of Successful,  Failed, or Canceled. The percentage of successful, failed, and canceled projects for each goal range were then calculated. A line chart was created to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
